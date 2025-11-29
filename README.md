@@ -18,7 +18,7 @@ You must have **Node.js** and **npm** (or yarn/pnpm) installed.
 
 1.  **Clone the Repository:**
     ```bash
-    git clone [https://github.com/vrishank-na/PES-Basketball-court.git](https://github.com/vrishank-na/PES-Basketball-court.git)
+    git clone https://github.com/vrishank-na/PES-Basketball-court.git
     cd PES-Basketball-court
     ```
 2.  **Install Dependencies:**
